@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="1.6330" tests="1" failures="0">
+  <testsuite name="Root Suite" timestamp="2022-01-22T02:25:58" tests="0" file="cypress/integration/remove-item/remove-item.spec.js" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="Delete item from list" timestamp="2022-01-22T02:25:58" tests="1" time="1.6330" failures="0">
+    <testcase name="Delete item from list Delete specifict item" time="1.6330" classname="Delete specifict item">
+    </testcase>
+  </testsuite>
+</testsuites>

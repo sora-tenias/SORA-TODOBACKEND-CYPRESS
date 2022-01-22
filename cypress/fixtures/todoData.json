@@ -1,0 +1,6 @@
+{
+    "item": "test1",
+    "changeItem": "hello@cypress.io",
+    "itemWithSpecialCaracters": "test$%!P",
+    "itemWithBlankSpace": "challenge test"
+}

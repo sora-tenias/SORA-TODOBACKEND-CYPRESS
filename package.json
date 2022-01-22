@@ -1,0 +1,28 @@
+{
+  "name": "sora-todobackend-cypress",
+  "version": "1.0.0",
+  "description": "challenge dmi",
+  "main": "index.js",
+  "scripts": {
+      "test-chrome": "npx cypress run --browser chrome  --headless",
+      "test-firefox": "npx cypress run --browser firefox --headless"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sora-tenias/SORA-TODOBACKEND-CYPRESS.git"
+  },
+  "keywords": [
+    "cypress",
+    "automation",
+    "testing"
+  ],
+  "author": "sora-tenias",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sora-tenias/SORA-TODOBACKEND-CYPRESS/issues"
+  },
+  "homepage": "https://github.com/sora-tenias/SORA-TODOBACKEND-CYPRESS#readme",
+  "dependencies": {
+    "cypress": "^9.3.1"
+  }
+}
